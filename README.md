@@ -1,3 +1,2 @@
-#I am the header
-##This is a formatted readme file
-The project is about me getting used to setting up a Virtual machine environment for my my learning.
+#Vagrant virtual machine
+##The set up of a local virtual machine environment for my learning.
